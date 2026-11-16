@@ -11,3 +11,7 @@ pip install -r requirements.txt
 ```sh
 python main.py
 ```
+
+### 참여자
+1. 김평강
+2. 정태현
